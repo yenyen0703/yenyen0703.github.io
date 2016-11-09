@@ -65,7 +65,7 @@ function addZero(a) {
 
 function onloadCallback() {
     grecaptcha.render("faucetClaimCaptcha", {
-        sitekey: "6LfXmQwTAAAAANaHFH1Zv6EhYX3lZg3Rl5sOkruQ",
+        sitekey: "6LfUTgsUAAAAAOLo8nvx1M81WqIGYY_ytCu-Q5eP",
         callback: correctCaptcha
     })
 }
